@@ -1,5 +1,5 @@
-## Scripts for setting up and running tetrig
-Follow the document in order of dependencies, setup, run
+## Scripts for setting up and running testrig
+Follow the document in order of dependencies, setup and run
 
 #### Dependencies:
 * Python version >= 3.6.9
